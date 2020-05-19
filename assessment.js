@@ -108,7 +108,7 @@ function assessment(userName) {
     
     return result;
 }
-console.log(assessment('工藤修一'))
+console.log(assessment('enuyobi2020'))
 
 console.assert(
     assessment('enuyobi2020') === 'enuyobi2020のいいところは見た目です。内側から溢れ出るenuyobi2020の良さに皆が気を惹かれます。',
